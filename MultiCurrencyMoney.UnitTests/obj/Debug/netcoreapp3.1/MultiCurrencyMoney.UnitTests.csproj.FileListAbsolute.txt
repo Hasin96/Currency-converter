@@ -94,3 +94,5 @@ C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney.UnitTests\obj\
 C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney.UnitTests\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.UnitTests.dll
 C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney.UnitTests\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.UnitTests.pdb
 C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney.UnitTests\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.UnitTests.genruntimeconfig.cache
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney.UnitTests\bin\Debug\netcoreapp3.1\MultiCurrencyMoney.dll
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney.UnitTests\bin\Debug\netcoreapp3.1\MultiCurrencyMoney.pdb

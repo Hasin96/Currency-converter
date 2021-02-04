@@ -1,0 +1,9 @@
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\bin\Debug\netcoreapp3.1\MultiCurrencyMoney.deps.json
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\bin\Debug\netcoreapp3.1\MultiCurrencyMoney.dll
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\bin\Debug\netcoreapp3.1\MultiCurrencyMoney.pdb
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.csprojAssemblyReference.cache
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.AssemblyInfoInputs.cache
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.AssemblyInfo.cs
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.csproj.CoreCompileInputs.cache
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.dll
+C:\Users\Hasin\source\repos\MultiCurrencyMoney\MultiCurrencyMoney\obj\Debug\netcoreapp3.1\MultiCurrencyMoney.pdb
