@@ -12,13 +12,13 @@ namespace MultiCurrencyMoney.UnitTests
 
         [TestCase(2, 10)]
         [TestCase(3, 15)]
-        public void Times_WhenCalledWithMultiplier_ReturnsNewDollarObjectWithTheCorrectAmount(int multiplier, int expectedAmount)
+        public void Times_WhenCalledWithMultiplier_ReturnsNewDollarObjectWithTheExpectedAmount(int multiplier, int expectedAmount)
         {
             Dollar five = new Dollar(5);
 
             Dollar product = five.Times(multiplier);
 
-            Assert.AreEqual(expectedAmount, product.Amount);
+            Assert.AreEqual(product, new Dollar(expectedAmount));
         }
 
         [TestCase(5,5, true)]
@@ -29,6 +29,16 @@ namespace MultiCurrencyMoney.UnitTests
             Dollar five2 = new Dollar(secondDollarAmount);
 
             Assert.AreEqual(five1.Equals(five2), expectedResult);
+        }
+
+        [Test]
+        public void Equals_CompareDollarToNull_ReturnsFalse()
+        {
+            Dollar five = new Dollar(5);
+            object nullObj = null;
+
+            Assert.IsFalse(five.Equals(nullObj));
+
         }
 
     }

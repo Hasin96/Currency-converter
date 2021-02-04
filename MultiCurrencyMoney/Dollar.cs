@@ -6,20 +6,27 @@ namespace MultiCurrencyMoney
 {
     public class Dollar
     {
-        public int Amount;
+        private int _amount;
         public Dollar(int amount)
         {
-            Amount = amount;
+            _amount = amount;
         }
 
         public Dollar Times(int multiplier)
         {
-            return new Dollar(Amount * multiplier);
+            return new Dollar(_amount * multiplier);
         }
 
-        public bool Equals(Dollar obj)
+        public override bool Equals(object obj)
         {
-            if (this.Amount == obj.Amount)
+            if (obj == null)
+                return false;
+
+            if (this.GetType() != obj.GetType())
+                return false;
+
+            Dollar dollar = (Dollar)obj;
+            if (this._amount == dollar._amount)
                 return true;
             else
                 return false;
